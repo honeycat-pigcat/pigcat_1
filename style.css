@@ -1,14 +1,14 @@
-. box {
+.box {
     border:50px solid #ff6348;
     width:200px;
     padding:50px;
     margin-bottom:20px;
 }
 
-. green { border-color:#2ed573;
+.green { border-color:#2ed573;
 }
 
-. blue { border-color:#70a1ff;
+.blue { border-color:#70a1ff;
 }
 
 
